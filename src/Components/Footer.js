@@ -18,18 +18,18 @@ const Footer = () => {
               <h6 className="text-uppercase font-weight-bold text-center">Product</h6>
               <hr className="bg-success mb-1 mt-0 d-inline-block mx-auto" />
               <ul className="list-unstyled">
-                <li className="my-2"><a href="#">Medical Safety Product</a></li>
-                <li className="my-2"><a href="#">Nutritious Product</a></li>
-                <li className="my-2"> <a href="#">Top Medicine Brands</a></li>
+                <li className="my-2"><a>Medical Safety Product</a></li>
+                <li className="my-2"><a>Nutritious Product</a></li>
+                <li className="my-2"><a>Top Medicine Brands</a></li>
               </ul>
           </Col>
           <Col sm>
               <h6 className="text-uppercase font-weight-bold text-center">Useful links</h6>
               <hr className="bg-success mb-1 mt-0 d-inline-block mx-auto"  />
               <ul className="list-unstyled">
-                <li className="my-2"><a href="#">Knock Knock Medico</a></li>
-                <li className="my-2"><a href="#">Doctors' Consultation</a></li>
-                <li className="my-2"><a href="#">Medical Camp Location</a></li>
+                <li className="my-2"><a>Knock Knock Medico</a></li>
+                <li className="my-2"><a>Doctors' Consultation</a></li>
+                <li className="my-2"><a>Medical Camp Location</a></li>
               </ul>
           </Col>
           <Col sm>

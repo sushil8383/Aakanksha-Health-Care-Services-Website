@@ -16,12 +16,14 @@ import {
 const App = () => {
   return (
     <>
-      <Popup />
-      <Popup1 />
-      <Header/>
-      <Carousels/>
-      <Accordion />
-       <Footer/>
+    <Popup />
+    <Popup1 />
+    <Header/>
+    <Carousels/>
+    <Accordion />
+    <Footer/>
+ 
+
     </>
   )
 }
